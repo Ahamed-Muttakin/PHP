@@ -7,7 +7,8 @@
 <body>
     <?php
         $a="Core of Coding<br>";//var
-        $num= 123;#var
+        $num= 13;#var
+        $b=3;
         echo "<h1>".$a."</h1>";
         /*echo $a;
         echo $num;*/
@@ -15,6 +16,7 @@
         echo NUm1."<br>";
         $sum=num1+200;
         echo $sum;
+        echo $num**$b;//exponention operator(power)
     ?>
 </body>
 </html>
