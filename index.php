@@ -7,8 +7,8 @@
 <body>
 <?php
     echo "<h1><i>This is the first PHP File</i></h1>";
-    echo "Hello"."  Muttakin";
-    echo "<b>Shohag</b>";
+    echo "Hello"."  Muttakin </br>";
+    echo "<b>Shohag</b></br>";
     echo "<b>Muttakin"." Ahamed</b>";
 
 ?>
