@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>SM : Sign in</title>
+	<title>SM : Admission</title>
 	<link rel="stylesheet" href="css/sign_in_style.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -35,7 +35,7 @@
 				</div>
 				<div class="col-md-1 offset-md-2 py-1">
 						<button class="p-1" style=" float:left; border-radius:10px; background:none; border:1px solid black; FONT-WEIGHT:BOLDER;">
-							<a href="sign up.php">SIGN UP</a>
+							<a href="#">SIGN UP</a>
 						</button>
 				</div>
 			</div>
